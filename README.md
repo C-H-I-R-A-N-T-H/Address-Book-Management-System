@@ -22,9 +22,15 @@ Features
 Technologies and Concepts
 
 1. C Programming
+   
 2.Structures
+
 3.Arrays
+
 4.Pointers
+
 5.Strings and string-handling functions
+
 6.Input validation
+
 7.File handling
