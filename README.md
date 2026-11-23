@@ -19,8 +19,8 @@ Features
 6.Check for duplicate phone numbers and email addresses
 
 7.Save and load contact information using file handling
-Technologies and Concepts
 
+Technologies and Concepts
 1. C Programming
    
 2.Structures
